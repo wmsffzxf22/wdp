@@ -1,0 +1,1 @@
+kot:cat;dom:house;mysz:mouse;
