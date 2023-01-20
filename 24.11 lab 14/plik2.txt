@@ -1,0 +1,5 @@
+Pierwsza*linijka
+Druga*linijka
+Linijka*3
+
+aaaa
