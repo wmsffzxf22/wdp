@@ -1,0 +1,2 @@
+# wdp
+# gwiazdorsko wykonane programowanie
